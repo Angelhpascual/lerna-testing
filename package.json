@@ -5,6 +5,7 @@
     "lerna": "^4.0.0"
   },
   "dependencies": {
-    "bootstrap": "^5.0.0"
+    "bootstrap": "^5.0.0",
+    "react-native": "^0.64.1"
   }
 }
